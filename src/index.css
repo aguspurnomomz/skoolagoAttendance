@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@import "tailwindcss";
+
+@theme {
+  --color-skoola-teal: #56c9b5;
+  --color-skoola-yellow: #ffde59;
+  --color-skoola-bg: #eafaf9;
+  --color-skoola-indigo: #4e6bff;
+}
