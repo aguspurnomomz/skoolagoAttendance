@@ -4,7 +4,7 @@ import App from './App.jsx'
 import './index.css' 
 
 
-import skoolagoIcon from './assets/skoolago_icon.png'
+import skoolagoIcon from './assets/icosklg.png'
 
 const favicon = document.querySelector("link[rel*='icon']")
 if (favicon) {
