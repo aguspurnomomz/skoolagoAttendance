@@ -115,7 +115,7 @@ export default function LoginOperator() {
           <div className="absolute -left-20 -bottom-20 w-64 h-64 rounded-full bg-[#eafaf9] opacity-20 blur-2xl"></div>
 
           <div className="text-white text-right font-medium text-sm tracking-widest opacity-80">
-            DIGITAL SCHOOL ECOSYSTEM
+            ABSENSI DIGITAL
           </div>
 
           {/* Floating Card Glassmorphism ala Referensi Gambar */}
